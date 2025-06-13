@@ -11,31 +11,31 @@ const CiriaPlaces = () => {
       name: 'Castillo de Ciria',
       description: 'Imponente fortaleza medieval que domina el paisaje, ofreciendo vistas panorámicas.',
       image: castilloImg,
-      coords: '41.5800, -2.0000'
+      coords: '41.621150249432404, -1.9684660438051766'
     },
     {
       name: 'Iglesia de Ntra Señora La Mayor',
       description: 'Edificio religioso con elementos románicos y góticos, un tesoro arquitectónico.',
       image: iglesiaImg,
-      coords: '41.5810, -2.0010'
+      coords: '41.61878373876499, -1.965697190975157'
     },
     {
       name: 'Río Manubles',
       description: 'Ideal para paseos y disfrutar de la naturaleza por el cañon en el cual discurre.',
       image: rioImg,
-      coords: '41.5790, -2.0020'
+      coords: '41.64011614096962, -1.9615979268890462'
     },
     {
       name: 'Plaza Mayor',
       description: 'Ayuntamiento de la villa, frontón y Bar Cafetería la Plaza.',
       image: plazaImg,
-      coords: '41.5805, -2.0030'
+      coords: '41.61805545521695, -1.9666890146494072'
     },
     {
       name: 'Lavadero Público',
       description: 'Antiguo lavadero que refleja la vida cotidiana de antaño.',
       image: lavaderoImg,
-      coords: '41.5795, -2.0040'
+      coords: '41.61792311257265, -1.9659621360262496'
     }
   ];
 
